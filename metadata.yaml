@@ -1,0 +1,29 @@
+_repo: Americana-EbrietatisCustoms-Relating-Thereto_45177
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45177-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Peeke, Hewson L. (Hewson Lindsley)
+    alias: Peeke, Hewson Lindsley
+    birthdate: 1861
+    deathdate: 1942
+    gutenberg_agent_id: '43135'
+    url: http://www.gutenberg.org/2009/agents/43135
+description: ''
+gutenberg_issued: '2014-03-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45177'
+  lccn: '17012270'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'GT'
+- !lcsh 'Drinking customs -- United States'
+title: "Americana Ebrietatis\r\nThe Favorite Tipple of our Forefathers and the Laws\
+  \ and Customs Relating Thereto"
+url: http://www.gutenberg.org/ebooks/45177
